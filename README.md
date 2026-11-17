@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Maganca
-- I’m currently interested in an internship
--
-- I’m currently learning Programming and unix in C, Cloud computing, and Analysis of discrete structures
-  
+
 - Reach me at:
 - PHONE:  623-252-1971
-- EMAIL: ethan.quimpo@outlook.com
+- EMAIL: ethandquimpo@gmail.com
 
 <!---
 Maganca/Maganca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
